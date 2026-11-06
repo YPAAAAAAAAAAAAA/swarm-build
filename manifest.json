@@ -1,0 +1,19 @@
+{
+  "id": "swarm-build",
+  "title": {
+    "en": "Swarm Build",
+    "zh": "Swarm Build"
+  },
+  "intro": {
+    "en": "Small moves. Big things. Colorful cursors build a page together. Drag to explore, or let the swarm find its rhythm.",
+    "zh": "Small moves. Big things. Colorful cursors build a page together. Drag to explore, or let the swarm find its rhythm."
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/swarm.css",
+    "vendor/swarm.js"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "YPAAAAAAAAAAAAA/swarm-build"
+}
